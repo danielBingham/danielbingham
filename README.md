@@ -58,7 +58,9 @@ project for the forseeable future.
 
 **Repo:** [danielbingham/MuddyReality.py](https://github.com/danielbingham/muddyreality.py), [danielbingham/MuddyReality](https://github.com/danielbingham/muddyreality)
 
-**Tech Stack:** Python (MuddyReality.py), C++ (MuddyReality)
+**Tech Stack:** 
+- Python (MuddyReality.py)
+- C++ (MuddyReality)
 
 This is my on-going Multi-User Dungeon project.  I learned to code by building
 a Multi-user Dungeon, and I still really enjoy the format.  You can build
