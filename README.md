@@ -1,10 +1,10 @@
 # Hi :wave:, I'm Daniel (or Bing)
 
 I'm a software engineer from Bloomington, Indiana.  I've been writing code
-since  1998 (I was 13) and spent my high school years hacking on a Multi-User
-Dungeon in C.  I went to Skidmore College from 2005 to 2009 and studied Physics
-and Computer Science, graduating in 2009 with a double major.  Since then I've
-been working as a Software Engineer.  I have 10 years professional Full Stack
+since 1998 (I was 13) and spent my high school years hacking on a Multi-User
+Dungeon in C. I went to Skidmore College from 2005 to 2009 to study Physics
+and Computer Science. I graduated in 2009 with a double major.  Since then I've
+been working as a Software Engineer. I have 10 years professional Full Stack
 experience and 5 years DevOps and Engineering Management. 
 
 When I'm not writing code I spend a lot of time working on municipal policy
@@ -35,7 +35,8 @@ Repo: [danielbingham/peerreview](https://github.com/danielbingham/peerreview)
 Tech Stack:
 - Frontend: React/Redux
 - Backend: Node.js / Express
-- Infrastructure: AWS, Terraform, Kubernetes, Github Actions
+- Database: PostgreSQL
+- Infrastructure: AWS, Redis, Terraform, Kubernetes, Github Actions
 
 This is my attempt to build a universal scholarly publishing SaaS platform.  I
 started with a crowdsourcing concept.  The idea was to use a StackExchange-like
@@ -105,11 +106,47 @@ interest.
 <details>
 <summary>Defunct Projects</summary>
 
+**Forest to Farm**
+
+Repo: [danielbingham/foresttofarm.org](https://github.com/danielbingham/foresttofarm.org)
+
+Active: Jan 2015 - Sep 2016
+
+Tech Stack:
+- Frontend: Javascript (Backbone)
+- Backend: Ruby (Rails)
+- Database: Mysql
+- Infrastructure: Chef, Linux, Linode
+
+This was a side project I worked on while on sabbatical from Ceros and also
+doing a lot of volunteering for various non-profits and cooperatives.  I used
+it to learn Ruby and Rails. I got reasonably far with it, but the primary
+challege was data ingestion. I probably put several hundred hours into it
+before putting it down when I returned to Ceros.
+
+**Farm to Fridge**
+
+Repo: [danielbingham/FarmToFridge](https://github.com/danielbingham/farmtofridge)
+
+Active: Dec 2011 - May 2012 
+
+Tech Stack:
+- Frontend: Javascript (JQuery)
+- Backend: PHP (Zend)
+- Database: MySQL
+- Infrastructure: Linux, Linode
+
+
 **Fridge to Food**
 
 Repo: [danielbingham/fridgetofood.com-old](https://github.com/danielbingham/fridgetofood.com-old), [danielbingham/fridgetofood.com](https://github.com/danielbingham/fridgetofood)
 
 Tech Stack:
-    Frontend: 
+- Frontend: Javascript (JQuery)
+- Backend: PHP (Zend)
+- Database: MySQL
+- Infrastructure: Linux, Linode
+
+
 
 </details>
