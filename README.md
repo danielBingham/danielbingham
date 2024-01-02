@@ -1,7 +1,7 @@
 # Hi :wave:, I'm Daniel (or Bing)
 
 I'm a software engineer from Bloomington, Indiana.  I've been writing code
-since 1998 (I was 13) and spent my high school years hacking on a Multi-User
+since I was 13 (1998) and spent my high school years hacking on a Multi-User
 Dungeon in C. I went to Skidmore College from 2005 to 2009 to study Physics
 and Computer Science. I graduated in 2009 with a double major.  Since then I've
 been working as a Software Engineer. I have 10 years professional Full Stack
