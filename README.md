@@ -23,7 +23,10 @@ problem to solve.
 You can find links to my other profiles in the sidebar.  I'll use the rest of
 this space to add some context to my repos.
 
-## Projects
+## Active Projects
+
+These are recent projects or active side projects that I'm still chipping away
+at.
 
 **Peer Review / JournalHub** 
 
@@ -92,6 +95,12 @@ Repo: [danielbingham/vimrc.vim](https://github.com/danielbingham/vimrc.vim)
 
 I'm a vim user and this is my `.vimrc`.  I keep it here so that it's easily
 portable between machines.  Feel free to grab anything that looks interesting!
+
+## Defunct Projects
+
+These are projects that I worked on at some point and still keep the code on
+Github for posterity's sake.  Some of them might be reactivated if I regain
+interest.
 
 <details>
 <summary>Defunct Projects</summary>
