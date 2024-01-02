@@ -95,6 +95,7 @@ portable between machines.  Feel free to grab anything that looks interesting!
 
 <details>
 <summary>Defunct Projects</summary>
+
 **Fridge to Food**
 
 Repo: [danielbingham/fridgetofood.com-old](https://github.com/danielbingham/fridgetofood.com-old), [danielbingham/fridgetofood.com](https://github.com/danielbingham/fridgetofood)
