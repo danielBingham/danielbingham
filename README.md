@@ -28,6 +28,7 @@ this space to add some context to my repos.
 **Peer Review / JournalHub** 
 
 Repo: [danielbingham/peerreview](https://github.com/danielbingham/peerreview)
+
 Tech Stack:
 - Frontend: React/Redux
 - Backend: Node.js / Express
@@ -51,6 +52,7 @@ remain a side project for the forseeable future.
 **MuddyReality.py / MuddyReality** 
 
 Repo: [danielbingham/MuddyReality.py](https://github.com/danielbingham/muddyreality.py), [danielbingham/MuddyReality](https://github.com/danielbingham/muddyreality)
+
 Tech Stack: Python (MuddyReality.py), C++ (MuddyReality)
 
 This is my on-going Multi-User Dungeon project.
