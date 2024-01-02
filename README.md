@@ -28,11 +28,11 @@ this space to add some context to my repos.
 These are recent projects or active side projects that I'm still chipping away
 at.
 
-**Peer Review / JournalHub** 
+### Peer Review / JournalHub 
 
-Repo: [danielbingham/peerreview](https://github.com/danielbingham/peerreview)
+**Repo:** [danielbingham/peerreview](https://github.com/danielbingham/peerreview)
 
-Tech Stack:
+**Tech Stack:**
 - Frontend: React/Redux
 - Backend: Node.js / Express
 - Database: PostgreSQL
@@ -54,11 +54,11 @@ viable, but it can't be bootstrapped. It needs to be non-profit to work, and I
 haven't been able to get non-profit funding. So it will likely remain a side
 project for the forseeable future.
 
-**MuddyReality.py / MuddyReality** 
+### MuddyReality.py / MuddyReality 
 
-Repo: [danielbingham/MuddyReality.py](https://github.com/danielbingham/muddyreality.py), [danielbingham/MuddyReality](https://github.com/danielbingham/muddyreality)
+**Repo:** [danielbingham/MuddyReality.py](https://github.com/danielbingham/muddyreality.py), [danielbingham/MuddyReality](https://github.com/danielbingham/muddyreality)
 
-Tech Stack: Python (MuddyReality.py), C++ (MuddyReality)
+**Tech Stack:** Python (MuddyReality.py), C++ (MuddyReality)
 
 This is my on-going Multi-User Dungeon project.  I learned to code by building
 a Multi-user Dungeon, and I still really enjoy the format.  You can build
@@ -90,9 +90,9 @@ the data files to Blaze and create a graphical version of the game.  This is
 probably a lifelong project that I'll toy with in fits and starts.  Maybe my
 kids can hack on it too some day.
 
-**vimrc.vim**
+### vimrc.vim
 
-Repo: [danielbingham/vimrc.vim](https://github.com/danielbingham/vimrc.vim)
+**Repo:** [danielbingham/vimrc.vim](https://github.com/danielbingham/vimrc.vim)
 
 I'm a vim user and this is my `.vimrc`.  I keep it here so that it's easily
 portable between machines.  Feel free to grab anything that looks interesting!
@@ -106,13 +106,13 @@ interest.
 <details>
 <summary>Defunct Projects</summary>
 
-**Forest to Farm**
+### Forest to Farm
 
-Repo: [danielbingham/foresttofarm.org](https://github.com/danielbingham/foresttofarm.org)
+**Repo:** [danielbingham/foresttofarm.org](https://github.com/danielbingham/foresttofarm.org)
 
-Active: Jan 2015 - Sep 2016
+**Active:** Jan 2015 - Sep 2016
 
-Tech Stack:
+**Tech Stack:**
 - Frontend: Javascript (Backbone)
 - Backend: Ruby (Rails)
 - Database: Mysql
@@ -124,13 +124,13 @@ it to learn Ruby and Rails. I got reasonably far with it, but the primary
 challege was data ingestion. I probably put several hundred hours into it
 before putting it down when I returned to Ceros.
 
-**Farm to Fridge**
+### Farm to Fridge
 
-Repo: [danielbingham/FarmToFridge](https://github.com/danielbingham/farmtofridge)
+**Repo:** [danielbingham/FarmToFridge](https://github.com/danielbingham/farmtofridge)
 
-Active: Dec 2011 - May 2012 
+**Active:** Dec 2011 - May 2012 
 
-Tech Stack:
+**Tech Stack:**
 - Frontend: Javascript (JQuery)
 - Backend: PHP (Zend)
 - Database: MySQL
