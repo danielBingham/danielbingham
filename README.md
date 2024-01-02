@@ -20,8 +20,9 @@ sources. Right now, they don't. I took a few shots at launching a startup
 around this, but no luck. So I'm taking a break from it. It's a really hard
 problem to solve.
 
-You can find links to my other profiles in the sidebar.  I'll use the rest of
-this space to add some context to my repos.
+You can contact me at my [website](https://theroadgoeson.com), through my email
+(linked in the sidebar), or any of the socials linked in the sidebar. My full
+CV, including my volunteer work, is [here](https://theroadgoeson.com/cv).
 
 ## Active Projects
 
@@ -121,10 +122,9 @@ interest.
 - Infrastructure: Chef, Linux, Linode
 
 This was a side project I worked on while on sabbatical from Ceros and also
-doing a lot of volunteering for various non-profits and cooperatives.  I used
+doing a lot of volunteering for various non-profits and cooperatives. I used
 it to learn Ruby and Rails. I got reasonably far with it, but the primary
-challege was data ingestion. I probably put several hundred hours into it
-before putting it down when I returned to Ceros.
+challege was data ingestion. I put it down when I returned to Ceros.
 
 ### Farm to Fridge
 
@@ -138,10 +138,17 @@ before putting it down when I returned to Ceros.
 - Database: MySQL
 - Infrastructure: Linux, Linode
 
+This was an online Farmer's market that had planned support for individual
+farms, CSAs, or whole markets with multiple farms. I was working with
+Bloomington's Local Grower's Guild who were attempting to fundraise for it.  I
+got a functional prototype completed, which was demoed a few times, but funding
+never came through.  I put the project down when I joined EllisLab.
 
-**Fridge to Food**
+### Fridge to Food
 
-Repo: [danielbingham/fridgetofood.com-old](https://github.com/danielbingham/fridgetofood.com-old), [danielbingham/fridgetofood.com](https://github.com/danielbingham/fridgetofood)
+**Repo:** [danielbingham/fridgetofood.com-old](https://github.com/danielbingham/fridgetofood.com-old), [danielbingham/fridgetofood.com](https://github.com/danielbingham/fridgetofood)
+
+**Active:** May 2010 - Dec 2010
 
 Tech Stack:
 - Frontend: Javascript (JQuery)
@@ -149,6 +156,10 @@ Tech Stack:
 - Database: MySQL
 - Infrastructure: Linux, Linode
 
-
+My first attempt at a startup.  This was a recipe sharing site, originally
+using a StackExchange-like reputation system. (What can I say?  I think
+reputation systems are cool!) This had a fully functional MVP beta. But I was
+never able to market it successfully or build any kind of traction. I put it
+down when I joined Ideacode.
 
 </details>
