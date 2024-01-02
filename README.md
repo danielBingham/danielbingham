@@ -93,6 +93,8 @@ Repo: [danielbingham/vimrc.vim](https://github.com/danielbingham/vimrc.vim)
 I'm a vim user and this is my `.vimrc`.  I keep it here so that it's easily
 portable between machines.  Feel free to grab anything that looks interesting!
 
+<details>
+<summary>Defunct Projects</summary>
 **Fridge to Food**
 
 Repo: [danielbingham/fridgetofood.com-old](https://github.com/danielbingham/fridgetofood.com-old), [danielbingham/fridgetofood.com](https://github.com/danielbingham/fridgetofood)
@@ -100,4 +102,4 @@ Repo: [danielbingham/fridgetofood.com-old](https://github.com/danielbingham/frid
 Tech Stack:
     Frontend: 
 
-
+</details>
