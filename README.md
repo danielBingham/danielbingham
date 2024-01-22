@@ -16,9 +16,8 @@ lot of my early software side projects were in that space.
 For the last two years I've been heavily focused on finding a way to achieve
 Universal Diamond Open Access of the Scientific literature.  We can't write
 accurate municipal policy if our policy makers don't have access to primary
-sources. Right now, they don't. I took a few shots at launching a startup
-around this, but no luck. So I'm taking a break from it. It's a really hard
-problem to solve.
+sources. Right now, they don't. I tried to build a non-profit startup to solve 
+the problem, but couldn't find funding for it..
 
 You can contact me at my [website](https://theroadgoeson.com), through my email
 (linked in the sidebar), or any of the socials linked in the sidebar. My full
