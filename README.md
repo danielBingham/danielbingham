@@ -50,10 +50,9 @@ But another idea seemed like it just might, which was basically building Github
 for Journals. A super user-friendly SaaS platform that made it very easy for
 journal editorial teams to run their operations with out the need of a
 commercial publisher. I spent some time exploring that pivot, which I called
-[JournalHub](https://staging.peer-review.io). I still think that approach is
-viable, but it can't be bootstrapped. It needs to be non-profit to work, and I
-haven't been able to get non-profit funding. So it will likely remain a side
-project for the forseeable future.
+[JournalHub](https://staging.peer-review.io). I was unable to fund it.  It 
+needs to be a non-profit to work, can't be bootstrapped, and non-profit funders 
+aren't funding this.  So it has been demoted to side project.
 
 ### MuddyReality.py / MuddyReality 
 
