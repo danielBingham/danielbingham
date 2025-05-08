@@ -4,8 +4,7 @@ I'm a software engineer from Bloomington, Indiana.  I've been writing code
 since I was 13 (1999) and spent my high school years hacking on a Multi-User
 Dungeon in C. I went to Skidmore College from 2005 to 2009 to study Physics
 and Computer Science. I graduated in 2009 with a double major.  Since then I've
-been working as a Software Engineer. I have 10 years professional Full Stack
-experience and 4 years DevOps and Engineering Management. 
+been working as a Software Engineer and Engineering Manager.
 
 When I'm not writing code I spend a lot of time working on municipal policy
 with my local government and helping out with non-profits and cooperatives.
