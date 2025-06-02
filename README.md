@@ -54,15 +54,14 @@ build community, both on and off the web.  It is currently under active developm
 This is my attempt to build a universal scholarly publishing SaaS platform.  I
 started with a crowdsourcing concept.  The idea was to use a StackExchange-like
 reputation system linked to Github-like review tooling to effectively replace
-the role of the journals.  That was called [Peer
-Review](https://peer-review.io).  After building a beta and collecting user
-feedback, it became clear that wasn't going to work for a myriad of reasons.
+the role of the journals.  That was called [Peer Review](https://theroadgoeson.com/a-possible-fix-for-scientific-and-academic-publishing).  After building a beta and collecting user
+feedback, it became clear that [wasn't going to work](https://theroadgoeson.com/crowdsourcing-peer-review-probably-wont-work) for a myriad of reasons.
 
 But another idea seemed like it just might, which was basically building Github
 for Journals. A super user-friendly SaaS platform that made it very easy for
 journal editorial teams to run their operations with out the need of a
 commercial publisher. I spent some time exploring that pivot, which I called
-[JournalHub](https://staging.peer-review.io). I was unable to fund it.  It 
+JournalHub. I was unable to fund it.  It 
 needs to be a non-profit to work, can't be bootstrapped, and non-profit funders 
 aren't funding this.  So it has been demoted to side project.
 
