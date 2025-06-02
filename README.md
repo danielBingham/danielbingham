@@ -27,6 +27,19 @@ CV, including my volunteer work, is [here](https://theroadgoeson.com/cv).
 These are recent projects or active side projects that I'm still chipping away
 at.
 
+### Communities
+**Website:** https://communities.social
+**Repo:** [danielbingham/communities](https://github.com/danielbingham/communities)
+
+**Tech Stack:**
+- Frontend: React/Redux
+- Backend: Node.js / Express
+- Database: PostgreSQL
+- Infrastructure: AWS, Redis, Terraform, Kubernetes, Github Actions
+
+Communities is an open source social media platform focused on helping people find and 
+build community, both on and off the web.  It is currently under active development.
+
 ### Peer Review / JournalHub 
 
 **Repo:** [danielbingham/peerreview](https://github.com/danielbingham/peerreview)
