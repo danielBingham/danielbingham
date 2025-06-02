@@ -38,8 +38,9 @@ at.
 - Database: PostgreSQL
 - Infrastructure: AWS, Redis, Terraform, Kubernetes, Github Actions
 
-Communities is an open source social media platform focused on helping people find and 
-build community, both on and off the web.  It is currently under active development.
+Communities is an open source, non-profit social media platform focused on helping people find and 
+build community, both on and off the web.  If it gains traction, it will be incorporated as a multi-stakeholder
+cooperative governed by its workers and users in collaboration.  It is currently under active development.
 
 ### Peer Review / JournalHub 
 
