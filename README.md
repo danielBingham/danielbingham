@@ -24,8 +24,7 @@ CV, including my volunteer work, is [here](https://theroadgoeson.com/cv).
 
 ## Active Projects
 
-These are recent projects or active side projects that I'm still chipping away
-at.
+These are active projects or side projects that I'm still working on.
 
 ### Communities
 **Website:** https://communities.social
