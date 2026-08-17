@@ -12,12 +12,6 @@ I'm particularly interested in housing, sustainability, and climate change.
 Sustainability of the food system was my primary focus for a long time and a
 lot of my early software side projects were in that space.
 
-For the last two years I've been heavily focused on finding a way to achieve
-Universal Diamond Open Access of the Scientific literature.  We can't write
-accurate municipal policy if our policy makers don't have access to primary
-sources. Right now, they don't. I tried to build a non-profit startup to solve 
-the problem, but couldn't find funding for it.
-
 You can contact me at my [website](https://theroadgoeson.com), through my email
 (linked in the sidebar), or any of the socials linked in the sidebar. My full
 CV, including my volunteer work, is [here](https://theroadgoeson.com/cv).
